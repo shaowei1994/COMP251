@@ -1,9 +1,8 @@
-
+package A3;
 import java.util.*;
 
 public class BellmanFord{
 
-	
 	/**
 	 * Utility class. Don't use.
 	 */

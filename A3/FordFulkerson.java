@@ -2,9 +2,6 @@ package A3;
 import java.io.*;
 import java.util.*;
 
-
-
-
 public class FordFulkerson {
 
 	public static boolean[] checked;
